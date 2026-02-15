@@ -1,0 +1,11 @@
+{
+  "name": "dao-governance-voting-engine",
+  "version": "1.0.0",
+  "description": "On-chain DAO Governance Framework",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
